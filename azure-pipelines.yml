@@ -28,4 +28,4 @@ steps:
 #     pytest
 #   displayName: 'pytest'
 
-- script: python src/Hello.py
+- script: python Hello.py
